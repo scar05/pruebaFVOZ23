@@ -1,3 +1,4 @@
 {
-"lightmode":"off"
+"lightmode":"strobe",
+"strobeInterval":120
 }
